@@ -3,7 +3,7 @@ $(document).ready(function(){
         function drawing(){
             const cities=["Lodz","Warszawa","Berlin","New York","Londyn"];
 
-            const cityRandom= [];
+            const cityRand= [];
             let position=[];
             function relegate(arr,rand,source){
                 let positionCity=null;
